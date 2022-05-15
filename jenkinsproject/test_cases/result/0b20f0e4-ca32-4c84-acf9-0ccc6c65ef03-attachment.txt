@@ -1,0 +1,18 @@
+[32mINFO    [0m root:test_litemall_main.py:56 用例2：编辑商品测试开始--------------------------------------
+[32mINFO    [0m root:login_page.py:25 1.账号登陆
+[32mINFO    [0m root:login_page.py:27 -输入账号ID
+[32mINFO    [0m root:login_page.py:30 -输入账号密码
+[32mINFO    [0m root:login_page.py:33 -点击登陆
+[32mINFO    [0m root:home_page.py:43 2.菜单栏商品管理-商品列表
+[32mINFO    [0m root:home_page.py:45 -点击菜单管理
+[32mINFO    [0m root:home_page.py:48 -点击商品列表
+[32mINFO    [0m root:goods_list_page.py:79 3.用商品编码搜索出商品，点击编辑
+[32mINFO    [0m root:goods_list_page.py:82 -先用商品编码搜索出对应商品
+[32mINFO    [0m root:goods_list_page.py:85 -点击查找按钮
+[32mINFO    [0m root:goods_list_page.py:88 -点击编辑
+[32mINFO    [0m root:goods_edit_page.py:27 4.编辑商品名称
+[32mINFO    [0m root:goods_edit_page.py:33 -清空输入框，更改商品名
+[32mINFO    [0m root:goods_edit_page.py:36 -滚动页面到底部
+[32mINFO    [0m root:goods_edit_page.py:39 -点击更新商品按钮
+[32mINFO    [0m root:goods_list_page.py:48 5.获取编辑成功TOAST
+[32mINFO    [0m root:test_litemall_main.py:63 6.断言

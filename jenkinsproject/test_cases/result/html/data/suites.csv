@@ -1,0 +1,62 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Mar 12 00:35:51 CST 2022","Sat Mar 12 00:35:54 CST 2022","2511","test_cases","test_litemall_main","TestReplyComment","","","test_delete_comment","
+        1.账号登陆
+        2.删除商品评论
+        3.获取删除评论成功TOAST
+        4.断言
+        :return:
+        "
+"passed","Sat Mar 12 00:35:21 CST 2022","Sat Mar 12 00:35:24 CST 2022","2815","test_cases","test_litemall_main","TestGoodsModule","","","test_delete_goods","
+        1.账号登陆
+        2.菜单栏点击商品列表
+        3.使用商品编码搜索出对应商品，点击删除
+        4.获取删除成功TOAST
+        5.断言
+        :return:
+        "
+"passed","Sat Mar 12 00:35:07 CST 2022","Sat Mar 12 00:35:09 CST 2022","2334","test_cases","test_litemall_main","TestSearch","","","test_search_by_goods_number","
+        1.账号登陆
+        2.菜单栏点击商品列表
+        3.用商品编码搜索出对应商品
+        4.断言
+        :return:
+        "
+"passed","Sat Mar 12 00:35:36 CST 2022","Sat Mar 12 00:35:39 CST 2022","2845","test_cases","test_litemall_main","TestReplyComment","","","test_reply_comment","
+        1.账号登陆
+        2.菜单栏点击商品评论
+        3.点击回复
+        4.获取回复失败TOAST
+        5.断言
+        :return:
+        "
+"passed","Sat Mar 12 00:34:22 CST 2022","Sat Mar 12 00:34:26 CST 2022","4148","test_cases","test_litemall_main","TestGoodsModule","","","test_goods_edit","
+        1.账号登陆
+        2.菜单栏点击商品列表
+        3，用商品编码搜索对应商品，然后点击编辑按钮
+        4。编辑商品名称，点击更新商品按钮
+        5。获取编辑成功TOAST
+        6.断言
+        :return:
+        "
+"passed","Sat Mar 12 00:34:38 CST 2022","Sat Mar 12 00:34:41 CST 2022","2511","test_cases","test_litemall_main","TestSearch","","","test_search_by_goods_id","
+        1.账号登陆
+        2.菜单栏点击商品列表
+        3.用商品id搜索出对应商品
+        4断言
+        :return:
+        "
+"passed","Sat Mar 12 00:34:02 CST 2022","Sat Mar 12 00:34:10 CST 2022","7615","test_cases","test_litemall_main","TestGoodsModule","","","test_goods_launch[213132131-Pathfinder-8999]","
+        1.账号登陆
+        2.菜单栏点击商品上架
+        3.上架商品
+        4.获取上架商品的名称
+        5.断言
+        :return:
+        "
+"passed","Sat Mar 12 00:34:53 CST 2022","Sat Mar 12 00:34:55 CST 2022","2412","test_cases","test_litemall_main","TestSearch","","","test_search_by_goods_name","
+        1.账号登陆
+        2.菜单栏点击商品列表
+        3.用商品名称搜索出对应商品
+        4.断言
+        :return:
+        "

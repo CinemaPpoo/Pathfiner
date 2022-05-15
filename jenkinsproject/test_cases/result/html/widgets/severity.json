@@ -1,0 +1,81 @@
+[ {
+  "uid" : "4916a3a5e9e06ef0",
+  "name" : "test_reply_comment",
+  "time" : {
+    "start" : 1647016536574,
+    "stop" : 1647016539419,
+    "duration" : 2845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "106b37082dd28319",
+  "name" : "test_goods_edit",
+  "time" : {
+    "start" : 1647016462221,
+    "stop" : 1647016466369,
+    "duration" : 4148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a086ec1a49f814d6",
+  "name" : "test_delete_comment",
+  "time" : {
+    "start" : 1647016551800,
+    "stop" : 1647016554311,
+    "duration" : 2511
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29395a85ee6219a",
+  "name" : "test_search_by_goods_number",
+  "time" : {
+    "start" : 1647016507417,
+    "stop" : 1647016509751,
+    "duration" : 2334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6550826a2bf935b",
+  "name" : "test_search_by_goods_name",
+  "time" : {
+    "start" : 1647016493030,
+    "stop" : 1647016495442,
+    "duration" : 2412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ef7f707aa8bff4c",
+  "name" : "test_delete_goods",
+  "time" : {
+    "start" : 1647016521984,
+    "stop" : 1647016524799,
+    "duration" : 2815
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4d60c5a62027057",
+  "name" : "test_search_by_goods_id",
+  "time" : {
+    "start" : 1647016478806,
+    "stop" : 1647016481317,
+    "duration" : 2511
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ac0353875a86b6",
+  "name" : "test_goods_launch[213132131-Pathfinder-8999]",
+  "time" : {
+    "start" : 1647016442962,
+    "stop" : 1647016450577,
+    "duration" : 7615
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

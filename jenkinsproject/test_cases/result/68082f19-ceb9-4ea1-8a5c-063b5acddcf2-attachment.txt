@@ -1,0 +1,11 @@
+[32mINFO    [0m root:test_litemall_main.py:195 用例8：删除商品评论测试开始--------------------------------------
+[32mINFO    [0m root:login_page.py:25 1.账号登陆
+[32mINFO    [0m root:login_page.py:27 -输入账号ID
+[32mINFO    [0m root:login_page.py:30 -输入账号密码
+[32mINFO    [0m root:login_page.py:33 -点击登陆
+[32mINFO    [0m root:home_page.py:61 2.菜单栏商品管理-商品评论
+[32mINFO    [0m root:home_page.py:63 -点击菜单管理
+[32mINFO    [0m root:home_page.py:66 -点击商品评论
+[32mINFO    [0m root:goods_comments_page.py:55 3.删除评论
+[32mINFO    [0m root:goods_comments_page.py:67 4.获取删除成功toast
+[32mINFO    [0m root:test_litemall_main.py:201 5.断言

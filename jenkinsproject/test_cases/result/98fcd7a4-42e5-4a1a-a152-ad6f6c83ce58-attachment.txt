@@ -1,0 +1,18 @@
+[32mINFO    [0m root:test_litemall_main.py:34 用例1：商品上架测试开始--------------------------------------
+[32mINFO    [0m root:login_page.py:25 1.账号登陆
+[32mINFO    [0m root:login_page.py:27 -输入账号ID
+[32mINFO    [0m root:login_page.py:30 -输入账号密码
+[32mINFO    [0m root:login_page.py:33 -点击登陆
+[32mINFO    [0m root:home_page.py:24 2.菜单栏商品管理-商品上架
+[32mINFO    [0m root:home_page.py:27 -点击菜单管理
+[32mINFO    [0m root:home_page.py:30 -点击商品上架
+[32mINFO    [0m root:goods_launch_page.py:33 3.创建商品
+[32mINFO    [0m root:goods_launch_page.py:36 -输入商品编号
+[32mINFO    [0m root:goods_launch_page.py:39 -输入商品名称
+[32mINFO    [0m root:goods_launch_page.py:42 -输入商品市场价格
+[32mINFO    [0m root:goods_launch_page.py:45 -点击热卖
+[32mINFO    [0m root:goods_launch_page.py:48 -上传商品主图
+[32mINFO    [0m root:goods_launch_page.py:54 -滑动到页面底部
+[32mINFO    [0m root:goods_launch_page.py:57 -点击上架按钮
+[32mINFO    [0m root:goods_list_page.py:32 4.获取上架商品名称
+[32mINFO    [0m root:test_litemall_main.py:40 5.断言

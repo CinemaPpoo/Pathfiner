@@ -1,0 +1,185 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "商品模块功能",
+    "children" : [ {
+      "name" : "商品上架测试",
+      "children" : [ {
+        "name" : "test_goods_launch[213132131-Pathfinder-8999]",
+        "uid" : "8ac0353875a86b6",
+        "parentUid" : "c5a00baa16e263ec1cf338d6b1ff2939",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016442962,
+          "stop" : 1647016450577,
+          "duration" : 7615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'8999'", "'Pathfinder'", "'213132131'" ]
+      } ],
+      "uid" : "c5a00baa16e263ec1cf338d6b1ff2939"
+    }, {
+      "name" : "编辑商品测试",
+      "children" : [ {
+        "name" : "test_goods_edit",
+        "uid" : "106b37082dd28319",
+        "parentUid" : "0e992875da092d1d8e92c8ea7ae37b2e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016462221,
+          "stop" : 1647016466369,
+          "duration" : 4148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e992875da092d1d8e92c8ea7ae37b2e"
+    }, {
+      "name" : "删除商品测试",
+      "children" : [ {
+        "name" : "test_delete_goods",
+        "uid" : "3ef7f707aa8bff4c",
+        "parentUid" : "e5394513cee49e5f70698c2c1ff73039",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016521984,
+          "stop" : 1647016524799,
+          "duration" : 2815
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5394513cee49e5f70698c2c1ff73039"
+    } ],
+    "uid" : "8961cfddd920a40cb52798133bd1cf2c"
+  }, {
+    "name" : "商品搜索功能",
+    "children" : [ {
+      "name" : "用商品id搜索商品测试",
+      "children" : [ {
+        "name" : "test_search_by_goods_id",
+        "uid" : "a4d60c5a62027057",
+        "parentUid" : "4f37da18135beb1d9c66a9e92803fb42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016478806,
+          "stop" : 1647016481317,
+          "duration" : 2511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f37da18135beb1d9c66a9e92803fb42"
+    }, {
+      "name" : "用商品名称搜索商品测试",
+      "children" : [ {
+        "name" : "test_search_by_goods_name",
+        "uid" : "d6550826a2bf935b",
+        "parentUid" : "159e4c26662dc0d0c48028cf20106392",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016493030,
+          "stop" : 1647016495442,
+          "duration" : 2412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "159e4c26662dc0d0c48028cf20106392"
+    }, {
+      "name" : "用商品编码搜索商品测试",
+      "children" : [ {
+        "name" : "test_search_by_goods_number",
+        "uid" : "29395a85ee6219a",
+        "parentUid" : "07c0338aa06b7664bc6bbaa8c81a5284",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016507417,
+          "stop" : 1647016509751,
+          "duration" : 2334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07c0338aa06b7664bc6bbaa8c81a5284"
+    } ],
+    "uid" : "7986762a113da46b6ec7c28d17f99715"
+  }, {
+    "name" : "商品评论模块",
+    "children" : [ {
+      "name" : "回复商品评论测试",
+      "children" : [ {
+        "name" : "test_reply_comment",
+        "uid" : "4916a3a5e9e06ef0",
+        "parentUid" : "5e6ebe532a5344637f2502fb25ce99dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016536574,
+          "stop" : 1647016539419,
+          "duration" : 2845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5e6ebe532a5344637f2502fb25ce99dc"
+    }, {
+      "name" : "删除商品评论测试",
+      "children" : [ {
+        "name" : "test_delete_comment",
+        "uid" : "a086ec1a49f814d6",
+        "parentUid" : "41e9e1ee9e55b8fc3f3cbdd8365bad1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647016551800,
+          "stop" : 1647016554311,
+          "duration" : 2511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "41e9e1ee9e55b8fc3f3cbdd8365bad1b"
+    } ],
+    "uid" : "78e030bdc7e4841b5dc1340b8560656a"
+  } ],
+  "name" : "behaviors"
+}

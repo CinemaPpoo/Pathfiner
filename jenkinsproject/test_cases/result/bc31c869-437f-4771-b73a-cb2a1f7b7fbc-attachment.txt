@@ -1,0 +1,13 @@
+[32mINFO    [0m root:test_litemall_main.py:145 用例5：用商品编码搜索商品测试开始--------------------------------------
+[32mINFO    [0m root:login_page.py:25 1.账号登陆
+[32mINFO    [0m root:login_page.py:27 -输入账号ID
+[32mINFO    [0m root:login_page.py:30 -输入账号密码
+[32mINFO    [0m root:login_page.py:33 -点击登陆
+[32mINFO    [0m root:home_page.py:43 2.菜单栏商品管理-商品列表
+[32mINFO    [0m root:home_page.py:45 -点击菜单管理
+[32mINFO    [0m root:home_page.py:48 -点击商品列表
+[32mINFO    [0m root:goods_list_page.py:125 3.用商品编码搜索出对应的商品
+[32mINFO    [0m root:goods_list_page.py:128 -在搜索栏输入商品编码
+[32mINFO    [0m root:goods_list_page.py:131 -点击查找
+[32mINFO    [0m root:goods_list_page.py:134 -获取搜索出的商品名称
+[32mINFO    [0m root:test_litemall_main.py:150 4.断言
